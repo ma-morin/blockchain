@@ -1,2 +1,6 @@
 # blockchain
-Trying the blockchain implementation of https://github.com/conradoqg/naivecoin
+Trying a blockchain implementation.
+
+Examples considered:
+https://github.com/nambrot/blockchain-in-js
+https://github.com/conradoqg/naivecoin
