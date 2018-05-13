@@ -1,5 +1,5 @@
 # blockchain
-Trying a blockchain implementation.
+Blockchain implementation.
 
 Examples considered:
 - https://github.com/nambrot/blockchain-in-js

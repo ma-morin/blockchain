@@ -1,0 +1,24 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain implementation.",
+  "author": "Marc-André Morin",
+  "license": "",
+  "homepage": "https://github.com/ma-morin/blockchain#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-morin/blockchain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ma-morin/blockchain/issues"
+  },
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0"
+  }
+}
