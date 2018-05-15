@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Blockchain implementation.",
   "author": "Marc-André Morin",
-  "license": "",
+  "license": "MIT",
   "homepage": "https://github.com/ma-morin/blockchain#readme",
   "repository": {
     "type": "git",
